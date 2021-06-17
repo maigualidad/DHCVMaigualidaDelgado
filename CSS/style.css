@@ -7,6 +7,7 @@ header {
     height: 70vh;
     width: 100%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.50),rgba(0, 0, 0, 0.90)), url(../IMG/FlowerB.png);
+    background-color: rgb(44, 0, 0);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
